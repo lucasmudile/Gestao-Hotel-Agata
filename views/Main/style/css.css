@@ -1,0 +1,30 @@
+.sombra{
+        
+    box-shadow: 10px 5px 5px black;
+}
+
+.menu li:hover{
+    background:lightgrey;
+    color:white;
+}
+
+
+.msgajax{
+   background: #57e057;
+   color:#fff;
+   margin:0px 15px 20px 15px;
+   font-weight:500;
+}
+.msgajax2{
+   background: red;
+   color:#fff;
+   margin:0px 15px 20px 15px;
+   font-weight:500;
+}
+
+.msgajax3{
+    background: #57e057;
+    color:#fff;
+    margin:0px 15px 20px 15px;
+    font-weight:500;
+ }
